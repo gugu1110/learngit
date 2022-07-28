@@ -1,3 +1,5 @@
 test with squash
 what will happend
+addded forget comments
+test again
 this is licnese file new added 
