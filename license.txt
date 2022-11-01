@@ -3,5 +3,3 @@ what will happend
 addded forget comments
 test again
 this is licnese file new added 
-
-after push check squash result
